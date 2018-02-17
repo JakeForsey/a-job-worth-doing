@@ -1,6 +1,8 @@
 # a-job-worth-doing
 An analysis of 22,000 online Monster.com job postings.
 
+Raw data and further discussion around it can be found: https://www.kaggle.com/PromptCloudHQ/us-jobs-on-monstercom
+
 **explore_and_cleanse.py**
 * count the number of nulls
 * count the number of unique values in each field
